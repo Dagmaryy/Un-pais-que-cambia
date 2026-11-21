@@ -4,8 +4,6 @@ Cinco historias con datos sobre Cuba, escritas en noviembre de 2026. Cada histor
 
 El hilo de la serie: las que estudian, los que no nacen, los que envejecen, los que se van, los que se quedan y los que no vienen.
 
-Las cinco reunidas están en [un-pais-que-cambia-serie-completa.pdf](un-pais-que-cambia-serie-completa.pdf).
-
 ## Las historias
 
 | # | Historia | De qué trata |
