@@ -1,0 +1,8 @@
+componente,valor,unidad,fuente
+Población al cierre de 2023,10055968,personas,"ONEI, componentes del cambio poblacional 2024"
+Nacimientos 2024,71358,personas,"ONEI, Anuario Demográfico 2024"
+Defunciones 2024,-128098,personas,"ONEI, Anuario Demográfico 2024"
+Saldo migratorio externo 2024,-251221,personas,"ONEI, saldo migratorio externo 2024"
+Población al cierre de 2024,9748007,personas,"ONEI, componentes del cambio poblacional 2024"
+Decrecimiento total 2024,-307961,personas,ONEI (cálculo verificado: 10055968 + 71358 - 128098 - 251221 = 9748007)
+Municipios con crecimiento total positivo en 2024,1,"municipios (Antilla, Holguín)","ONEI, población efectiva 2024"

@@ -1,0 +1,10 @@
+id,institucion,documento,anio_publicacion,url,fecha_consulta,uso
+F1,UNESCO,Informe Mundial de la Ciencia,2021,https://www.unesco.org/reports/science/2021/es,2026-11-20,Historia 1
+F2,Academia de Ciencias de Cuba,Composición de la membresía por períodos,2024,https://www.genero.onei.gob.cu/indicadores/indicador31,2026-11-20,Historia 1
+F3,ONEI,"Observatorio de Ciencia, Tecnología e Innovación",2024,,2026-11-20,Historia 1
+F4,ONEI,Anuario Demográfico de Cuba y estimaciones de población (residente y efectiva),2025,https://www.onei.gob.cu/sites/default/files/publicaciones/2025-07/00-anuario-demografico-2024.pdf,2026-11-20,Historias 2 y 4
+F5,ONEI / CEPDE,El envejecimiento de la población. Cuba y sus territorios 2024,2025,https://www.onei.gob.cu/sites/default/files/publicaciones/2025-05/envejecimiento-2024.pdf,2026-11-20,Historia 4 (tabla 3: grado de envejecimiento por provincias 2017-2024)
+F6,ONEI vía agencia EFE,Balance turístico de Cuba en 2024 y estadísticas de visitantes 2018-2024,2025,,2026-11-20,Historia 3
+F7,Ministerio de Turismo,Mercados emisores 2024,2025,,2026-11-20,Historia 3
+F8,Ministerio de Economía y Planificación,Registro de mipymes privadas (dic. 2024 y mar. 2025) e informe a la Asamblea Nacional sobre nuevos actores económicos,2023,https://www.mep.gob.cu/es/noticia/diputados-analizan-el-desempeno-de-los-nuevos-actores-economicos-y-su-aporte-al-desarrollo,2026-11-20,Historia 5
+F9,Covid19CubaData (proyecto abierto),provincias.geojson: límites provinciales de Cuba,2021,https://raw.githubusercontent.com/covid19cubadata/covid19cubadata.github.io/master/data/provincias.geojson,2026-11-20,"Mapa de la historia 4 (solo geometría, sin datos)"
